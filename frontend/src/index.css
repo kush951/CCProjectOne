@@ -332,7 +332,7 @@ body {
 }
 
 .btn--primary {
-  background: #ff0000;
+  background: green;
   color: #fff;
   padding: 13px 28px;
 }
